@@ -1,5 +1,3 @@
-# pf-travel-booking-website-webapp
-
 # Online Travel Booking Website
 
 ## Overview
